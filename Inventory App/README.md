@@ -1,36 +1,9 @@
-Inventory - Starter Code
-==================================
+# Inventory App
 
-Starter code for Android Basics in Kotlin.
+<p float="left">
+<img src="https://user-images.githubusercontent.com/100610668/186944979-92e8b5c2-d714-42f0-a05b-15d37223d048.jpeg" width=400/>
+<img src="https://user-images.githubusercontent.com/100610668/186945104-afb9a6ae-d57f-4be0-bb20-65cf6f387642.jpeg" width=400/>
+<img src="https://user-images.githubusercontent.com/100610668/186945244-dba76882-ea22-4e6c-91f1-af4e9043cf1f.jpeg" width=400/>
+<img src="https://user-images.githubusercontent.com/100610668/186945359-da017be5-39b6-4304-b09d-0cd1c9ac2923.jpeg" width=400/>
 
-Introduction
-------------
-
-This app is an stater code for an Inventory tracking app. Demos how to add, update, sell, and delete
- items from the local database.
-This app demonstrated
-the use of Android Jetpack component [Room](https://developer.android.com/training/data-storage/room) database.  
-
-The app also leverages [ViewModel](https://developer.android.com/topic/libraries/architecture/viewmodel),
-[LiveData](https://developer.android.com/topic/libraries/architecture/livedata),
-[Flow](https://developer.android.com/kotlin/flow),
-[View Binding](https://developer.android.com/topic/libraries/view-binding),
-and [Navigation](https://developer.android.com/topic/libraries/architecture/navigation/)
-with the SafeArgs plugin for parameter passing between fragments.
-
-Pre-requisites
---------------
-
-You need to know:
-- How to create and use fragments.
-- How to navigate between fragments, and use safeArgs to pass data between fragments.
-- How to use architecture components including ViewModel, LiveData, and LiveData transformations.
-- How to use coroutines for long-running tasks.
-- RecyclerView and adapters
-- SQLite database and the SQLite query language
-
-
-Getting Started
----------------
-
-1. Download and run the app.
+</p>
