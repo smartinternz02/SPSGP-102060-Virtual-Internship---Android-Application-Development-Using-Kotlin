@@ -1,4 +1,4 @@
-# Grocery Application
+# Android Grocery Application
 Online grocery is a type of ecommerce that enables customers to purchase fresh food or products directly from the merchant online. This application enables you to buy grocery online.
 <p float="left">
 <img src="https://user-images.githubusercontent.com/100610668/192079520-ab4f1749-9663-4f4a-8a54-596001997625.jpeg" width=40% height=40% />
