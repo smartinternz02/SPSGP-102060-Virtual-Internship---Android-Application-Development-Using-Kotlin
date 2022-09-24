@@ -1,43 +1,15 @@
-# Project Idea
+# Grocery Application
+Online grocery is a type of ecommerce that enables customers to purchase fresh food or products directly from the merchant online. This application enables you to buy grocery online.
+<p float="left">
+<img src="https://user-images.githubusercontent.com/100610668/192079520-ab4f1749-9663-4f4a-8a54-596001997625.jpeg" width=40% height=40% />
+<img src="https://user-images.githubusercontent.com/100610668/192079560-39126c98-9d6e-439f-9104-6913c48c7fe3.jpeg" width=40% height=40%/>
+<img src="https://user-images.githubusercontent.com/100610668/192079585-22a1f5cb-05f4-46f8-a02a-8bc46392eda1.jpeg" width=40% height=40%/>
+<img src="https://user-images.githubusercontent.com/100610668/192079602-1fc198b7-8042-489a-9a73-a7cb60a675a6.jpeg" width=40% height=40%/>
+<img src="https://user-images.githubusercontent.com/100610668/192079628-490ddb33-e3ff-4366-966e-c82ceeba3b68.jpeg" width=40% height=40%/>
+<img src="https://user-images.githubusercontent.com/100610668/192079651-1b667f47-0a24-4b95-8814-2dc65f05ceef.jpeg" width=40% height=40%/>
+</p>
 
-The idea of this project is to make a grocery android app that users can use to order the groceries they want. It doesn't contain any backend it is only android front end, but it will contain login athentication with firebase.
-
-# Extensions
-I have created a stupid chatbot screen that replies with the same sentence entered.
-I have also created a screen to preview the previous orders total and date
+Demo video link:- https://drive.google.com/drive/folders/1me4MsgWw6JZMB682E-0JE8-6eerXr6_8?usp=sharing
 
 
-# Navigation
-application contain 7 screens here is the navigation graph for them.
-![Screenshot](snippets/navigation.jpg)
 
-## screens
-my app consists of 7 main screens
-
-### Sign In screen
-enables the user to sign in using email and password or move to sign up screen.
-![Screenshot](snippets/signin.jpeg)
-
-### Sign Up screen
-enables the user to sign up using his email and password or move to sign in screen.
-![Screenshot](snippets/signup.jpeg)
-
-### Home screen
-enables the user to move to chatbot screen or sign out or to mover to cart or preview his previous orders. User can add items to his cart and can edit their quantity inside the cart screen. User can filter the items based on the price from low to high or the type of  Cart in the left bottom illustrate the number of different items in his cart
-![Screenshot](snippets/home.jpeg)
-
-### Chat Bot screen
-stupid chatbot that replies with the same text you enter
-![Screenshot](snippets/chat.jpeg)
-
-### Previous Orders screen
-enables the user to preview his previous orders
-![Screenshot](snippets/prev.jpeg)
-
-### Cart screen
-enable the user to check out or edit quantities of items or back to home to continue shopping
-![Screenshot](snippets/cart.jpeg)
-
-### Confirm Order screen
-just to inform the user that his order is done.
-![Screenshot](snippets/sucess.jpeg)
